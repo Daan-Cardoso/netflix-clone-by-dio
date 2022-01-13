@@ -1,2 +1,5 @@
 # netflix-clone-by-dio
-a simple project to clone base netflix interface
+A simple project to clone base netflix interface
+
+## day 01
+Watch all movies and follow step by step for develop this project
